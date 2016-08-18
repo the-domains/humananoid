@@ -1,0 +1,14 @@
+layout_spectrum: 0.7609943768475205
+typography_spectrum: 0.6636163755320013
+color:
+  brandStrength: 0.002758257556706667
+  lightness: 0.7034591345582157
+  saturation: 0.12194469571113586
+  rhythmicContrast: 0.6452194545418024
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: humananoid
